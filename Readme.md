@@ -1,1 +1,1 @@
-This file will contain different chatbots created using different techniques. Each chatbot will be having it's own detailed explanation as to what methods were used to make one.
+This file will contain Theory of whatever I've learnt from Codecademy and different chatbots created using different techniques. Each chatbot will be having it's own detailed explanation as to what methods were used to make one.
